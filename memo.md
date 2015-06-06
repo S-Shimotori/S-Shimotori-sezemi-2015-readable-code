@@ -1,5 +1,5 @@
 # リーダブルコードメモ
-
+途中でios appに変更しました。変更終わってないので外部ファイル作るところからお願いします。
 ## リポジトリ
 [https://github.com/S-Shimotori/S-Shimotori-sezemi-2015-readable-code](https://github.com/S-Shimotori/S-Shimotori-sezemi-2015-readable-code)
 
