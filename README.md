@@ -8,5 +8,4 @@
 * vim
 
 ## usage
-1. Google how to execute swift command with terminal!
-2. ```swift main.swift```
+open Project File with Xcode and run!
