@@ -8,11 +8,16 @@
 
 import UIKit
 
+let kRecipeTitle = "オムライス"
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+
+
+        println(kRecipeTitle)
+
     }
 
     override func didReceiveMemoryWarning() {
